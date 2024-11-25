@@ -9,19 +9,19 @@ const menuItems = [
   {
     title: "Обмен валюты в Саудии",
     icon: "https://img.icons8.com/ios/50/000000/wifi.png",
-    link: "/wifi",
+    link: "https://t.me/saudi_obmen",
   },
   {
     title: "Поездки по Саудии",
     icon: "https://img.icons8.com/ios/50/000000/bluetooth.png",
-    link: "/bluetooth",
+    link: "https://t.me/saudi_obmen",
   },
 ];
 
 const SettingsMenu = () => {
   return (
     <div className="bg-gray-100 min-h-screen">
-      <div className="max-w-md mx-auto py-6">
+      <div className="max-w-md mx-auto py-6 px-2">
         {menuItems.map((item, index) => (
           <a
             href={item.link}
