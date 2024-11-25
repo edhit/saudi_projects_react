@@ -14,7 +14,7 @@ const menuItems = [
   {
     title: "Поездки по Саудии",
     icon: "https://img.icons8.com/ios/50/000000/bluetooth.png",
-    link: "https://t.me/saudi_obmen",
+    link: "https://t.me/saudi_drive",
   },
 ];
 
