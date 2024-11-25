@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/saudi_projects_react/static/css/main.0c38d85e.css",
-    "main.js": "/saudi_projects_react/static/js/main.039abbe6.js",
+    "main.js": "/saudi_projects_react/static/js/main.895c8639.js",
     "static/js/453.42bc7737.chunk.js": "/saudi_projects_react/static/js/453.42bc7737.chunk.js",
     "index.html": "/saudi_projects_react/index.html",
     "main.0c38d85e.css.map": "/saudi_projects_react/static/css/main.0c38d85e.css.map",
-    "main.039abbe6.js.map": "/saudi_projects_react/static/js/main.039abbe6.js.map",
+    "main.895c8639.js.map": "/saudi_projects_react/static/js/main.895c8639.js.map",
     "453.42bc7737.chunk.js.map": "/saudi_projects_react/static/js/453.42bc7737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c38d85e.css",
-    "static/js/main.039abbe6.js"
+    "static/js/main.895c8639.js"
   ]
 }
