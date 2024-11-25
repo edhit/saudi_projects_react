@@ -3,7 +3,7 @@ import React from "react";
 const menuItems = [
   {
     title: "Life in Madinah / Жизнь в Медине 🇸🇦",
-    icon: process.env.PUBLIC_URL + "/img/medina.jpg",
+    icon: process.env.PUBLIC_URL + "/medina.jpg",
     link: "https://t.me/live_in_madina",
   },
   {
